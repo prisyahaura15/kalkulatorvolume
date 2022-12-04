@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\kalkulatorvolume\kalkulatorvolume\bin\Debug\kalkulatorvolume.exe.config
+C:\Users\LENOVO\source\repos\kalkulatorvolume\kalkulatorvolume\bin\Debug\kalkulatorvolume.exe
+C:\Users\LENOVO\source\repos\kalkulatorvolume\kalkulatorvolume\bin\Debug\kalkulatorvolume.pdb
+C:\Users\LENOVO\source\repos\kalkulatorvolume\kalkulatorvolume\obj\Debug\kalkulatorvolume.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\kalkulatorvolume\kalkulatorvolume\obj\Debug\kalkulatorvolume.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\kalkulatorvolume\kalkulatorvolume\obj\Debug\kalkulatorvolume.Form1.resources
+C:\Users\LENOVO\source\repos\kalkulatorvolume\kalkulatorvolume\obj\Debug\kalkulatorvolume.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\kalkulatorvolume\kalkulatorvolume\obj\Debug\kalkulatorvolume.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\kalkulatorvolume\kalkulatorvolume\obj\Debug\kalkulatorvolume.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\kalkulatorvolume\kalkulatorvolume\obj\Debug\kalkulatorvolume.exe
+C:\Users\LENOVO\source\repos\kalkulatorvolume\kalkulatorvolume\obj\Debug\kalkulatorvolume.pdb
